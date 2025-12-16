@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">  
-<a href="https://instal-apps-osx.github.io/.github/dfsdfsaswtjyjt">  
+<a href="https://soft-mac-install.github.io/.github/affinitydesigner">  
 <img src="https://img.shields.io/badge/Get_Affinity_Designer_for_macOS-007AFF?style=for-the-badge&logo=apple" alt="Get Affinity Designer for macOS">  
 </a>  
 </div>  
